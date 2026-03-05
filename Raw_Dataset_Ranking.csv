@@ -1,0 +1,501 @@
+﻿ID;Name;Preis_pro_Nacht_EUR;Kundenbewertung_(1-5);Verpflegung;Lage;Entfernung_zum_Strand_km;Zimmerkategorie;Pool_vorhanden;Anzahl_Sterne;Haustierfreundlich;Stornierungsbedingungen;CHECK24_Note;Provisionshoehe_CHECK24_%
+1;Finca Serra 1;56;4,2;Halbpension;Berge/Serra de Tramuntana;13,1;Deluxe;Ja;2;Nein;Flexibel;1,2;18,6
+2;Villa Sol Mar 2;82;4,5;Keine;Berge/Serra de Tramuntana;5,7;Superior;Nein;2;Ja;Strikt;5,3;16,8
+3;Hotel Jardin del Sol 3;256;3,4;Vollpension;Küstennähe;13;Superior;Ja;4;Ja;Flexibel;8,9;16,4
+4;Finca Palma Real 4;188;4,8;Keine;Küstennähe;9,9;Superior;Ja;3;Ja;Teilweise;9,2;9,8
+5;Suites Encantada 5;423;3,5;All Inclusive;Dorf;4,9;Suite;Ja;3;Nein;Teilweise;0,8;10,7
+6;Resort Jardin del Sol 6;375;3,4;Halbpension;Dorf;12;Suite;Nein;3;Nein;Flexibel;4;7,4
+7;Finca Oasis 7;230;3,7;Vollpension;Dorf;10;Standard;Nein;3;Nein;Flexibel;7,7;6,4
+8;Villa Mar y Tierra 8;333;;Keine;Küstennähe;13,2;Deluxe;Ja;4;Ja;Flexibel;1,7;19,1
+9;Hostal Cala Nova 9;405;4,4;Vollpension;Strandnähe;3,3;Deluxe;Ja;5;Ja;Teilweise;5,6;18,7
+10;Suites Oasis 10;209;4,4;Vollpension;Strandnähe;9,9;Suite;Ja;3;Nein;Strikt;9,6;7
+11;Finca Cala D'Or 11;409;4,4;All Inclusive;Berge/Serra de Tramuntana;2,3;Standard;Ja;5;Nein;Strikt;6,7;10,5
+12;Finca Andratx 12;241;4;Vollpension;Strandnähe;5,6;Superior;Nein;4;Nein;Strikt;7,9;14,9
+13;Villa Vista Azul 13;360;2,5;Halbpension;Innenstadt Palma;7,6;Superior;Nein;4;Ja;Flexibel;7,6;14,6
+14;Finca Jardin del Sol 14;174;4,3;All Inclusive;Küstennähe;1,9;Deluxe;Nein;2;Ja;Teilweise;6,5;10,3
+15;Resort Andratx 15;208;2,5;All Inclusive;Strandnähe;3,8;Superior;Nein;4;Nein;Flexibel;0,3;15,9
+16;Suites Bahia Serena 16;449;4,9;All Inclusive;Küstennähe;1;Standard;Ja;5;Nein;Flexibel;3,9;19
+17;Finca Cala Nova 17;50;2,5;Frühstück;Dorf;9,1;Standard;Ja;3;Ja;Flexibel;9,5;16,8
+18;Hostal Soller 18;226;2,8;Halbpension;Küstennähe;1,8;Superior;Ja;4;Nein;Flexibel;3,9;17,7
+19;Suites Bella Vista 19;183;4,7;Frühstück;Strandnähe;6,2;Deluxe;Ja;2;Nein;Strikt;4,8;7,1
+20;Resort Serra 20;40;4,7;Vollpension;Dorf;14,7;Suite;Ja;1;Nein;Strikt;2,5;14,5
+21;Resort Porto Cristo 21;217;3,3;All Inclusive;Dorf;1,2;Deluxe;Ja;4;Ja;Teilweise;0,6;8,6
+22;Finca Vista Azul 22;121;4,1;All Inclusive;Küstennähe;1,6;Deluxe;Nein;3;Ja;Teilweise;0,9;8,1
+23;Suites Mar Azul 23;278;3,1;Halbpension;Innenstadt Palma;9,2;Superior;Nein;3;Nein;Flexibel;7,8;19,8
+24;Hostal Cala Nova 24;323;2,9;Vollpension;Innenstadt Palma;8,7;Superior;Nein;4;Nein;Flexibel;1,6;11,8
+25;Hotel Esencia 25;241;2,9;Vollpension;Dorf;10,4;Superior;Ja;3;Ja;Strikt;4,8;14,1
+26;Aparthotel Palma Real 26;331;2,9;All Inclusive;Dorf;9;Standard;Nein;3;Ja;Teilweise;1,9;10,3
+27;Finca Deia 27;204;4,4;Halbpension;Küstennähe;10,3;Suite;Ja;3;Nein;Strikt;6,2;12
+28;Aparthotel Deia 28;254;2,7;Halbpension;Innenstadt Palma;5,3;Standard;Ja;3;Nein;Strikt;9,9;15
+29;Villa Deia 29;398;3,9;Vollpension;Strandnähe;6,7;Suite;Ja;3;Ja;Strikt;7,7;19,7
+30;Hostal Costa Verde 30;281;3,3;Keine;Strandnähe;3,7;Standard;Nein;3;Ja;Flexibel;2,4;14,6
+31;Villa Tramuntana 31;235;4;All Inclusive;Innenstadt Palma;3,9;Deluxe;Nein;4;Nein;Teilweise;9,7;9,1
+32;Resort Vista Azul 32;244;3,5;Frühstück;Dorf;13,1;Standard;Nein;3;Ja;Flexibel;5,5;12,5
+33;Hostal Mar y Tierra 33;316;3,5;All Inclusive;Strandnähe;13,4;Deluxe;Nein;4;Ja;Flexibel;8,3;19,5
+34;Suites Alcudia 34;438;2,6;Frühstück;Berge/Serra de Tramuntana;8,4;Superior;Ja;3;Nein;Strikt;4,6;13,9
+35;Hotel Andratx 35;256;4,6;Halbpension;Dorf;6,5;Deluxe;Nein;4;Ja;Teilweise;3,4;18,2
+36;Resort Deia 36;129;;Keine;Strandnähe;6,3;Suite;Ja;3;Nein;Teilweise;3,6;6,3
+37;Aparthotel Palma Real 37;259;4,8;Keine;Küstennähe;7,7;Superior;Ja;4;Ja;Strikt;2,8;13,2
+38;Aparthotel Vista Azul 38;178;4,6;Halbpension;Dorf;9,6;Superior;Ja;3;Nein;Flexibel;6,2;10
+39;Resort La Pergola 39;379;4,8;Vollpension;Innenstadt Palma;0,8;Standard;Ja;5;Ja;Flexibel;6,3;8,5
+40;Villa La Pergola 40;311;3,9;Halbpension;Küstennähe;11,6;Standard;Nein;3;Ja;Teilweise;7;6,7
+41;Hostal Pollensa 41;355;4;Frühstück;Küstennähe;1;Suite;Ja;5;Ja;Flexibel;3,7;14,2
+42;Villa Alcudia 42;356;2,6;Halbpension;Küstennähe;14,4;Standard;Nein;3;Nein;Flexibel;9,7;5,6
+43;Resort Paguera 43;327;3,3;All Inclusive;Strandnähe;2;Suite;Ja;4;Nein;Flexibel;4,8;19,4
+44;Finca Alcudia 44;110;3,7;Frühstück;Berge/Serra de Tramuntana;10,4;Standard;Nein;4;Ja;Strikt;0,1;11,7
+45;Suites Oasis 45;51;4,9;All Inclusive;Berge/Serra de Tramuntana;13,2;Superior;Ja;1;Nein;Teilweise;5,8;6,4
+46;Hotel Serra 46;365;3,8;Vollpension;Küstennähe;4,7;Suite;Ja;4;Ja;Strikt;6,3;12,4
+47;Villa Mar y Tierra 47;308;3,2;Halbpension;Berge/Serra de Tramuntana;10,5;Suite;Ja;4;Nein;Flexibel;5,1;9,7
+48;Villa Serra 48;369;4,1;Halbpension;Innenstadt Palma;9,6;Superior;Ja;4;Ja;Strikt;4,6;18,2
+49;Aparthotel Deia 49;364;3,1;Halbpension;Berge/Serra de Tramuntana;8,6;Suite;Nein;3;Ja;Teilweise;0,5;12,8
+50;Finca Costa Verde 50;189;4,9;Vollpension;Berge/Serra de Tramuntana;4,7;Standard;Ja;2;Ja;Flexibel;6,9;11,5
+51;Aparthotel Bahia Serena 51;283;2,7;Halbpension;Dorf;1,3;Suite;Nein;4;Nein;Flexibel;4;8,8
+52;Hostal Serra 52;287;2,5;Frühstück;Küstennähe;1,2;Deluxe;Ja;4;Nein;Teilweise;6,4;12,5
+53;Villa Mar Azul 53;156;3,6;Halbpension;Strandnähe;10,8;Standard;Ja;2;Ja;Strikt;5,2;12,5
+54;Hostal Paguera 54;175;4,7;Frühstück;Innenstadt Palma;9,4;Standard;Nein;2;Nein;Flexibel;7,2;19,6
+55;Finca Jardin del Sol 55;169;4;Vollpension;Küstennähe;2,4;Deluxe;Nein;4;Ja;Strikt;1;11,7
+56;Hotel Porto Cristo 56;118;3,2;Vollpension;Berge/Serra de Tramuntana;4;Standard;Ja;3;Ja;Teilweise;9,2;12,7
+57;Finca Mediterraneo 57;350;3,2;Keine;Strandnähe;11,3;Superior;Ja;4;Ja;Strikt;5,5;14,3
+58;Hostal Bella Vista 58;204;4,3;Halbpension;Küstennähe;2,2;Deluxe;Nein;3;Nein;Flexibel;6,6;10
+59;Villa Valldemossa 59;261;3,8;Frühstück;Dorf;3,7;Suite;Nein;3;Ja;Teilweise;6,3;19,9
+60;Hotel Jardin del Sol 60;210;4;Keine;Strandnähe;10;Suite;Ja;4;Ja;Teilweise;8,6;17,3
+61;Aparthotel Tramuntana 61;287;3,6;Frühstück;Berge/Serra de Tramuntana;14,3;Deluxe;Ja;4;Nein;Strikt;8,1;19,3
+62;Hotel Cala Nova 62;180;2,9;Frühstück;Küstennähe;5,9;Deluxe;Nein;2;Nein;Strikt;6;19,9
+63;Hotel Oasis 63;434;3,5;All Inclusive;Berge/Serra de Tramuntana;5,3;Deluxe;Nein;4;Ja;Strikt;0,9;15,9
+64;Aparthotel Bella Vista 64;65;3,7;Vollpension;Strandnähe;9,6;Deluxe;Ja;3;Ja;Flexibel;1,8;8,3
+65;Resort Sol Mar 65;387;3,2;Keine;Dorf;11,4;Standard;Ja;4;Ja;Flexibel;4,6;7,2
+66;Hotel Pollensa 66;282;3,8;Vollpension;Küstennähe;7,4;Suite;Ja;3;Ja;Strikt;3,1;7,8
+67;Hostal Cala D'Or 67;40;4,8;Vollpension;Dorf;1,7;Suite;Ja;3;Ja;Flexibel;6,2;7,4
+68;Resort Mediterraneo 68;264;;All Inclusive;Dorf;7,1;Deluxe;Nein;4;Nein;Strikt;5,8;6,4
+69;Villa Palma Real 69;156;3,9;Frühstück;Dorf;7;Standard;Nein;4;Nein;Strikt;3,5;15,6
+70;Resort Jardin del Sol 70;350;2,7;Vollpension;Küstennähe;12,6;Suite;Ja;4;Ja;Strikt;2,3;15,9
+71;Resort Bahia Serena 71;356;3,1;Frühstück;Berge/Serra de Tramuntana;1,7;Superior;Ja;3;Ja;Flexibel;1,1;7
+72;Villa Paguera 72;95;3,5;All Inclusive;Dorf;10,6;Suite;Ja;1;Nein;Strikt;4,4;7,9
+73;Aparthotel Arena Dorada 73;313;4,7;Halbpension;Dorf;1,2;Deluxe;Nein;4;Ja;Teilweise;3,8;19,7
+74;Hotel Encantada 74;63;3,9;Vollpension;Berge/Serra de Tramuntana;6,2;Standard;Nein;2;Nein;Flexibel;9,7;6,8
+75;Hotel Costa Verde 75;442;2,7;Halbpension;Küstennähe;10,4;Standard;Ja;3;Ja;Teilweise;0,7;17,6
+76;Finca Mediterraneo 76;325;3,3;Frühstück;Dorf;7,6;Standard;Ja;4;Ja;Teilweise;9,4;5,5
+77;Hostal Sol Mar 77;163;;Vollpension;Strandnähe;1,4;Superior;Ja;4;Nein;Teilweise;7;17,4
+78;Hotel Santanyi 78;229;3,9;All Inclusive;Dorf;14,7;Superior;Nein;4;Nein;Flexibel;7,3;6,6
+79;Resort Esencia 79;357;4,2;All Inclusive;Dorf;14,7;Suite;Ja;4;Nein;Teilweise;6,8;14,5
+80;Villa Playa Blanca 80;68;3,1;Halbpension;Strandnähe;4,2;Deluxe;Nein;3;Nein;Teilweise;7,7;11
+81;Suites Cala Nova 81;196;4,5;Keine;Strandnähe;1,6;Suite;Ja;2;Nein;Flexibel;6,1;6,2
+82;Villa Esencia 82;275;2,7;Frühstück;Dorf;0,3;Deluxe;Ja;4;Ja;Teilweise;2,9;18,9
+83;Hostal Mar Azul 83;340;3,2;Frühstück;Dorf;7,1;Superior;Ja;4;Ja;Teilweise;0,3;19,9
+84;Hostal Valldemossa 84;374;4,6;All Inclusive;Dorf;2,7;Standard;Ja;5;Ja;Flexibel;5,7;19,7
+85;Finca Cala Nova 85;86;2,9;All Inclusive;Dorf;13,7;Deluxe;Ja;2;Ja;Flexibel;3,9;16,6
+86;Hotel Vista Azul 86;375;2,9;Keine;Strandnähe;10,1;Superior;Nein;4;Nein;Teilweise;1,5;8,4
+87;Suites Alcudia 87;261;4,3;Keine;Strandnähe;2,2;Superior;Ja;4;Ja;Flexibel;5,7;19,1
+88;Villa Santanyi 88;274;2,8;Keine;Dorf;14;Suite;Ja;4;Ja;Strikt;0,4;11,7
+89;Finca Bahia Serena 89;385;3,7;Vollpension;Dorf;14,3;Standard;Nein;3;Ja;Strikt;1,1;16,5
+90;Hostal Esencia 90;247;5;Halbpension;Küstennähe;2,9;Deluxe;Ja;3;Nein;Teilweise;4,4;16,3
+91;Resort Playa Blanca 91;49;3;Keine;Dorf;1,1;Superior;Ja;1;Ja;Strikt;9;8
+92;Suites Palmera 92;345;4,5;Halbpension;Strandnähe;10,1;Superior;Ja;4;Ja;Teilweise;2,7;6,2
+93;Hotel Alcudia 93;110;3,8;All Inclusive;Strandnähe;2,3;Superior;Ja;4;Nein;Strikt;3,7;16,7
+94;Villa Deia 94;91;3,1;Halbpension;Innenstadt Palma;13,9;Superior;Ja;3;Ja;Flexibel;3;12,8
+95;Resort Cala D'Or 95;90;4,8;Vollpension;Innenstadt Palma;12,6;Superior;Ja;3;Ja;Flexibel;5,9;12,3
+96;Suites Soller 96;355;3,9;Keine;Berge/Serra de Tramuntana;2,4;Deluxe;Ja;4;Ja;Strikt;0,6;12,3
+97;Hotel Porto Cristo 97;419;3,7;All Inclusive;Dorf;0,7;Deluxe;Ja;3;Ja;Teilweise;4,4;17,9
+98;Villa Cala D'Or 98;82;3,4;All Inclusive;Innenstadt Palma;13,3;Superior;Nein;3;Ja;Teilweise;4;17,1
+99;Villa Andratx 99;47;4,4;Halbpension;Innenstadt Palma;9,3;Deluxe;Ja;2;Nein;Flexibel;3,8;17,5
+100;Hostal La Pergola 100;227;2,9;Frühstück;Berge/Serra de Tramuntana;4,1;Standard;Ja;4;Nein;Teilweise;1,7;6,4
+101;Suites Esencia 101;443;4,3;All Inclusive;Berge/Serra de Tramuntana;6,4;Suite;Nein;4;Nein;Strikt;7,6;13,5
+102;Villa Playa Blanca 102;81;3,7;Halbpension;Berge/Serra de Tramuntana;2,5;Standard;Nein;3;Nein;Teilweise;5,1;5,4
+103;Hostal Arena Dorada 103;183;4,2;Keine;Dorf;4,8;Superior;Ja;3;Ja;Teilweise;4,8;11,2
+104;Villa Palmera 104;384;4;All Inclusive;Küstennähe;14,6;Standard;Ja;5;Nein;Flexibel;1;18,5
+105;Finca Bella Vista 105;449;2,5;Frühstück;Berge/Serra de Tramuntana;8,9;Deluxe;Nein;4;Ja;Flexibel;9,1;5,1
+106;Villa Serra 106;155;4,7;Vollpension;Innenstadt Palma;9,1;Deluxe;Ja;4;Ja;Flexibel;9,7;18
+107;Aparthotel Sol Mar 107;85;4,4;Vollpension;Dorf;12,1;Superior;Nein;3;Ja;Strikt;0,8;15,4
+108;Suites Oasis 108;253;4,8;Halbpension;Strandnähe;2,1;Suite;Nein;4;Ja;Strikt;9,4;17,3
+109;Villa Bella Vista 109;151;4,4;Halbpension;Berge/Serra de Tramuntana;1,4;Suite;Nein;2;Ja;Teilweise;1,8;14,2
+110;Suites Playa Blanca 110;269;2,5;Vollpension;Innenstadt Palma;14;Superior;Ja;3;Nein;Flexibel;3,6;9,8
+111;Hotel Deia 111;202;2,9;Keine;Küstennähe;0,2;Standard;Ja;4;Ja;Teilweise;4,1;15
+112;Resort Playa Blanca 112;345;3,4;Frühstück;Innenstadt Palma;2,8;Deluxe;Ja;3;Ja;Strikt;2,7;14,3
+113;Hotel Mediterraneo 113;219;2,9;Frühstück;Innenstadt Palma;6,8;Suite;Nein;3;Ja;Strikt;1,4;12,7
+114;Finca Pollensa 114;205;2,9;All Inclusive;Strandnähe;13,7;Suite;Nein;3;Nein;Teilweise;2,6;7,5
+115;Resort Mar y Tierra 115;100;2,6;Halbpension;Berge/Serra de Tramuntana;7,5;Superior;Nein;1;Nein;Teilweise;9,6;15,5
+116;Aparthotel Palmera 116;292;4,8;All Inclusive;Strandnähe;4,6;Suite;Nein;3;Ja;Strikt;5;10,1
+117;Aparthotel Playa Blanca 117;349;4,2;Frühstück;Strandnähe;5,9;Superior;Nein;5;Ja;Strikt;2,2;10,4
+118;Aparthotel Porto Cristo 118;394;4,2;Frühstück;Küstennähe;2,8;Suite;Ja;4;Nein;Flexibel;6;13,7
+119;Aparthotel Mar y Tierra 119;75;4,3;Keine;Küstennähe;7,7;Standard;Nein;1;Ja;Teilweise;2,6;8,1
+120;Suites Alcudia 120;332;2,8;All Inclusive;Küstennähe;0,8;Superior;Ja;4;Ja;Teilweise;6,2;6,8
+121;Hostal Mar y Tierra 121;201;3,8;Vollpension;Küstennähe;6,9;Standard;Nein;3;Ja;Strikt;5,4;11,8
+122;Finca Mar y Tierra 122;263;2,7;All Inclusive;Innenstadt Palma;5,2;Superior;Ja;4;Nein;Strikt;7,2;15,2
+123;Aparthotel Soller 123;214;3,2;Frühstück;Berge/Serra de Tramuntana;14,9;Suite;Nein;3;Nein;Flexibel;1,3;18,5
+124;Hotel Oasis 124;53;4,5;Halbpension;Küstennähe;13,9;Suite;Nein;1;Nein;Teilweise;1,8;17
+125;Villa Oasis 125;309;4,5;Halbpension;Küstennähe;9;Standard;Nein;4;Ja;Teilweise;2,6;5,6
+126;Finca Valldemossa 126;123;3,4;All Inclusive;Berge/Serra de Tramuntana;10,5;Suite;Ja;4;Nein;Strikt;5;17,6
+127;Hostal Deia 127;267;4,3;Frühstück;Innenstadt Palma;11,9;Suite;Ja;3;Ja;Teilweise;2,2;14
+128;Finca Valldemossa 128;364;4,2;Halbpension;Küstennähe;8,6;Superior;Ja;5;Ja;Flexibel;3,5;14,3
+129;Hotel Mediterraneo 129;344;2,6;All Inclusive;Küstennähe;5,5;Superior;Ja;3;Nein;Flexibel;9;10,1
+130;Resort Serra 130;174;3,8;Frühstück;Strandnähe;5,5;Deluxe;Nein;4;Ja;Strikt;1,1;19
+131;Hostal Encantada 131;152;2,7;Halbpension;Küstennähe;3;Superior;Nein;2;Ja;Flexibel;0,4;17,3
+132;Finca Cala D'Or 132;236;4;Keine;Dorf;0,4;Standard;Ja;4;Nein;Strikt;9,2;14,2
+133;Resort Cala Nova 133;375;2,9;Vollpension;Innenstadt Palma;11,9;Superior;Ja;3;Nein;Flexibel;5,2;9,2
+134;Hostal Cala D'Or 134;313;4,4;Vollpension;Innenstadt Palma;14,7;Suite;Nein;4;Ja;Strikt;6,5;17,7
+135;Hotel Cala Nova 135;125;2,8;All Inclusive;Innenstadt Palma;4,7;Deluxe;Nein;2;Nein;Strikt;6;17
+136;Hotel Mar Azul 136;170;4,3;Halbpension;Strandnähe;4,9;Deluxe;Nein;2;Ja;Teilweise;9,1;17
+137;Hotel Esencia 137;107;3,6;All Inclusive;Dorf;0,8;Superior;Nein;4;Ja;Teilweise;9,6;17,3
+138;Suites Oasis 138;68;2,9;Halbpension;Innenstadt Palma;5;Superior;Nein;3;Ja;Flexibel;8,4;16,7
+139;Aparthotel Porto Cristo 139;49;4,3;Keine;Dorf;4,9;Suite;Nein;1;Ja;Teilweise;6,3;18,4
+140;Aparthotel Pollensa 140;411;2,6;Keine;Berge/Serra de Tramuntana;5,2;Deluxe;Ja;4;Nein;Strikt;5,6;9,8
+141;Aparthotel Sol Mar 141;412;4,7;Frühstück;Strandnähe;13,8;Superior;Nein;4;Nein;Teilweise;5,3;10,4
+142;Suites Jardin del Sol 142;258;3,2;Halbpension;Dorf;12,1;Deluxe;Ja;3;Nein;Flexibel;2;16,7
+143;Suites Arena Dorada 143;181;4,6;Frühstück;Berge/Serra de Tramuntana;1,9;Standard;Ja;2;Nein;Teilweise;7,3;19,5
+144;Suites Esencia 144;74;4,2;Halbpension;Innenstadt Palma;0,3;Suite;Nein;3;Ja;Flexibel;3,2;9,6
+145;Hostal Palma Real 145;449;4,6;Frühstück;Dorf;7;Suite;Nein;5;Nein;Strikt;1,7;12,1
+146;Hotel Esencia 146;320;4,8;All Inclusive;Küstennähe;8,7;Suite;Ja;5;Nein;Teilweise;9,2;10,7
+147;Aparthotel Costa Verde 147;102;3,8;Halbpension;Küstennähe;6,2;Deluxe;Ja;2;Nein;Teilweise;4,8;9,5
+148;Villa La Pergola 148;440;5;Vollpension;Berge/Serra de Tramuntana;14,1;Standard;Nein;4;Ja;Teilweise;7,4;19,1
+149;Hostal Pollensa 149;156;2,6;Halbpension;Küstennähe;8,2;Superior;Nein;4;Nein;Flexibel;2;12,2
+150;Suites Mediterraneo 150;237;4,2;Vollpension;Innenstadt Palma;0,2;Superior;Nein;4;Ja;Teilweise;7,3;14,1
+151;Suites Pollensa 151;207;3,2;Frühstück;Dorf;14,6;Suite;Ja;3;Ja;Flexibel;2;5,1
+152;Aparthotel Mar y Tierra 152;67;2,9;Keine;Dorf;11,6;Suite;Ja;2;Nein;Teilweise;7,6;16,6
+153;Suites Valldemossa 153;315;4,2;All Inclusive;Berge/Serra de Tramuntana;1,6;Suite;Nein;4;Ja;Strikt;2,4;12,6
+154;Villa Costa Verde 154;325;3,5;Frühstück;Innenstadt Palma;2;Standard;Ja;4;Nein;Strikt;0,3;9,9
+155;Aparthotel Oasis 155;346;3,2;Keine;Innenstadt Palma;2,8;Standard;Ja;3;Nein;Flexibel;4,4;8,9
+156;Aparthotel Mar Azul 156;225;3,1;All Inclusive;Dorf;13,1;Deluxe;Nein;4;Ja;Strikt;9,7;16,1
+157;Suites Encantada 157;109;5;Halbpension;Dorf;8,8;Superior;Ja;2;Ja;Flexibel;9,5;18,8
+158;Villa Soller 158;168;5;Halbpension;Dorf;14,7;Deluxe;Nein;4;Ja;Teilweise;7,5;16,6
+159;Resort Oasis 159;60;3,2;Keine;Innenstadt Palma;10;Deluxe;Nein;1;Ja;Teilweise;4,9;19,3
+160;Suites Bella Vista 160;116;4,1;Keine;Strandnähe;13,3;Superior;Ja;2;Ja;Strikt;0,3;10,9
+161;Resort Pollensa 161;187;4,6;Vollpension;Strandnähe;0,4;Suite;Ja;3;Ja;Teilweise;5,5;10,6
+162;Hotel Mediterraneo 162;347;4,7;Vollpension;Innenstadt Palma;10,4;Deluxe;Nein;5;Ja;Teilweise;3;14,7
+163;Finca Mar y Tierra 163;137;4,1;Keine;Dorf;3,8;Suite;Nein;4;Nein;Strikt;1;5,2
+164;Villa Soller 164;41;4;Vollpension;Strandnähe;4,1;Standard;Ja;3;Ja;Teilweise;4,6;8,7
+165;Hotel Alcudia 165;249;4,2;Vollpension;Strandnähe;7,3;Suite;Nein;3;Nein;Strikt;5,7;13,6
+166;Hotel Encantada 166;292;2,8;Halbpension;Innenstadt Palma;9,2;Standard;Nein;4;Nein;Flexibel;3;19,4
+167;Finca Sol Mar 167;200;3;Frühstück;Dorf;2,5;Deluxe;Ja;4;Nein;Strikt;0,6;7,5
+168;Suites Oasis 168;243;4,4;Halbpension;Berge/Serra de Tramuntana;11,6;Deluxe;Nein;4;Ja;Strikt;4,2;16,6
+169;Hostal Bella Vista 169;86;4,9;Halbpension;Berge/Serra de Tramuntana;9,3;Superior;Ja;2;Ja;Strikt;2,8;7,2
+170;Aparthotel Esencia 170;135;5;Vollpension;Berge/Serra de Tramuntana;12,6;Superior;Nein;2;Ja;Teilweise;8,2;8,4
+171;Hotel Paguera 171;184;4,6;All Inclusive;Küstennähe;12,1;Standard;Ja;3;Nein;Teilweise;3,8;8,4
+172;Finca Bahia Serena 172;164;4,4;Frühstück;Berge/Serra de Tramuntana;12;Superior;Ja;3;Nein;Teilweise;8,7;13,4
+173;Finca Porto Cristo 173;192;2,6;Frühstück;Dorf;3,7;Standard;Ja;4;Ja;Strikt;3,9;15,2
+174;Hotel Palma Real 174;413;3,3;All Inclusive;Strandnähe;9,9;Suite;Nein;4;Ja;Flexibel;9,5;12,2
+175;Hostal Tramuntana 175;307;4,3;Vollpension;Dorf;6,1;Suite;Ja;5;Nein;Teilweise;5,3;13,1
+176;Finca Costa Verde 176;58;3,8;Keine;Berge/Serra de Tramuntana;3;Deluxe;Nein;2;Ja;Teilweise;7,4;10
+177;Finca Bahia Serena 177;239;2,8;Halbpension;Dorf;10,7;Standard;Nein;3;Ja;Flexibel;5,2;17,5
+178;Finca Encantada 178;304;3,7;Keine;Berge/Serra de Tramuntana;1,8;Superior;Nein;3;Ja;Strikt;6,2;13,6
+179;Resort Esencia 179;331;3,9;Halbpension;Innenstadt Palma;6;Deluxe;Ja;4;Nein;Teilweise;9,2;19,5
+180;Villa Alcudia 180;109;3,3;Halbpension;Innenstadt Palma;5,6;Deluxe;Ja;4;Nein;Teilweise;2,1;17,7
+181;Villa Jardin del Sol 181;122;4,9;Frühstück;Küstennähe;13,6;Superior;Nein;2;Nein;Strikt;2,7;13,6
+182;Resort Paguera 182;360;4,7;Keine;Berge/Serra de Tramuntana;4,1;Suite;Nein;4;Ja;Teilweise;7,4;10,2
+183;Villa Serra 183;267;4,8;Vollpension;Dorf;5,3;Suite;Nein;4;Nein;Teilweise;5,4;7,3
+184;Hotel Soller 184;290;3,9;Frühstück;Strandnähe;9;Suite;Nein;3;Ja;Teilweise;2,4;16,1
+185;Finca Serra 185;189;2,8;Halbpension;Strandnähe;14;Suite;Nein;4;Ja;Flexibel;7,3;5,7
+186;Hostal Pollensa 186;179;3,1;All Inclusive;Küstennähe;11,4;Standard;Nein;3;Ja;Strikt;5,9;9,2
+187;Suites Mediterraneo 187;206;3,9;Halbpension;Innenstadt Palma;10,3;Standard;Nein;4;Ja;Teilweise;2,3;14,4
+188;Villa Porto Cristo 188;204;4,2;All Inclusive;Innenstadt Palma;8,6;Suite;Ja;3;Ja;Teilweise;6,4;7,3
+189;Hotel Oasis 189;446;4,8;Frühstück;Küstennähe;3;Suite;Ja;4;Ja;Flexibel;2,7;14,5
+190;Villa Playa Blanca 190;166;4,7;Halbpension;Dorf;5,9;Suite;Nein;4;Ja;Teilweise;5,5;18,6
+191;Aparthotel Mar Azul 191;130;4,9;Halbpension;Innenstadt Palma;12,4;Superior;Nein;4;Ja;Strikt;8,4;19,2
+192;Aparthotel Jardin del Sol 192;363;4,7;All Inclusive;Strandnähe;10,9;Suite;Nein;4;Nein;Flexibel;4,1;11,1
+193;Hotel Paguera 193;252;5;Halbpension;Dorf;0,3;Suite;Ja;3;Ja;Strikt;8,8;19
+194;Aparthotel Cala D'Or 194;448;3,1;All Inclusive;Dorf;11,2;Suite;Nein;4;Ja;Flexibel;0,3;18,5
+195;Hostal Vista Azul 195;75;3,9;All Inclusive;Küstennähe;11,3;Deluxe;Nein;2;Nein;Strikt;3,6;5,6
+196;Villa Santanyi 196;397;3,2;Halbpension;Dorf;0,2;Standard;Nein;4;Ja;Teilweise;2,7;16,6
+197;Suites Santanyi 197;179;3,9;Keine;Berge/Serra de Tramuntana;11;Deluxe;Nein;3;Ja;Flexibel;6;6,3
+198;Villa Mar y Tierra 198;170;2,8;All Inclusive;Strandnähe;13,8;Deluxe;Ja;4;Ja;Teilweise;0,1;19,3
+199;Hotel Mar y Tierra 199;255;4,8;All Inclusive;Dorf;0,3;Deluxe;Nein;3;Ja;Flexibel;9,8;11,2
+200;Finca La Pergola 200;418;3,1;All Inclusive;Innenstadt Palma;9,6;Deluxe;Nein;3;Nein;Strikt;1,8;19,2
+201;Resort Paguera 201;281;4,3;Vollpension;Innenstadt Palma;14,1;Superior;Nein;3;Ja;Flexibel;2,7;12,1
+202;Resort Santanyi 202;436;3,9;Keine;Dorf;0,4;Suite;Nein;3;Nein;Flexibel;9;9,5
+203;Hostal Palmera 203;324;2,8;Vollpension;Küstennähe;7,1;Deluxe;Nein;3;Ja;Teilweise;2,7;10,5
+204;Suites Esencia 204;150;2,5;Keine;Küstennähe;12;Standard;Nein;2;Ja;Teilweise;3,5;6
+205;Resort Porto Cristo 205;322;4,5;All Inclusive;Küstennähe;9,8;Standard;Ja;4;Ja;Strikt;2,6;9,7
+206;Resort Paguera 206;168;4,3;Halbpension;Berge/Serra de Tramuntana;9,1;Deluxe;Ja;4;Nein;Flexibel;7,3;18,4
+207;Hotel Andratx 207;44;3,7;Frühstück;Innenstadt Palma;3,7;Superior;Nein;2;Nein;Strikt;7,9;7,4
+208;Hostal Bahia Serena 208;102;3;Frühstück;Strandnähe;7,3;Suite;Ja;2;Nein;Teilweise;0,9;6
+209;Villa Soller 209;295;3,2;All Inclusive;Strandnähe;4,5;Superior;Ja;4;Ja;Flexibel;2,9;16,7
+210;Hotel Mediterraneo 210;303;2,9;Keine;Küstennähe;6;Superior;Ja;4;Nein;Strikt;5;14
+211;Hostal Deia 211;184;4,9;Frühstück;Dorf;6;Standard;Nein;3;Nein;Flexibel;6;14,6
+212;Resort Esencia 212;55;4,8;Frühstück;Strandnähe;1,7;Suite;Nein;3;Nein;Teilweise;3,7;16,7
+213;Hostal Sol Mar 213;72;2,7;Frühstück;Dorf;5,2;Suite;Nein;2;Ja;Flexibel;4,2;14,1
+214;Suites Palmera 214;107;3,9;All Inclusive;Innenstadt Palma;7,4;Suite;Ja;4;Nein;Strikt;3,3;19,7
+215;Finca Costa Verde 215;423;2,9;Halbpension;Dorf;1,9;Deluxe;Ja;4;Ja;Strikt;9,5;11,7
+216;Hostal Encantada 216;401;4,5;Frühstück;Dorf;2,4;Superior;Nein;4;Ja;Flexibel;8,1;5,1
+217;Villa Playa Blanca 217;100;3,9;Frühstück;Küstennähe;4,7;Deluxe;Ja;2;Ja;Strikt;3,2;5,7
+218;Hotel Cala Nova 218;227;3,8;Vollpension;Küstennähe;7,1;Superior;Nein;3;Ja;Strikt;3,6;13,9
+219;Finca Oasis 219;97;3,3;Frühstück;Dorf;11,7;Deluxe;Nein;2;Nein;Strikt;6,4;17,9
+220;Resort Cala D'Or 220;238;3,4;Vollpension;Innenstadt Palma;10,5;Standard;Nein;4;Nein;Teilweise;8,9;15,3
+221;Hotel Valldemossa 221;395;4,5;All Inclusive;Strandnähe;13,7;Suite;Nein;5;Ja;Flexibel;8,8;18,1
+222;Finca Valldemossa 222;444;3,6;Halbpension;Strandnähe;6,5;Superior;Ja;4;Nein;Strikt;7,1;17,6
+223;Finca Cala D'Or 223;320;3,7;Frühstück;Innenstadt Palma;3;Deluxe;Nein;3;Nein;Strikt;2,4;13,3
+224;Finca Encantada 224;355;4;All Inclusive;Berge/Serra de Tramuntana;9,6;Suite;Ja;5;Nein;Teilweise;5,1;19,1
+225;Suites Andratx 225;255;4,8;All Inclusive;Berge/Serra de Tramuntana;1;Superior;Nein;4;Nein;Flexibel;1,1;5,9
+226;Aparthotel Costa Verde 226;409;4,5;Halbpension;Berge/Serra de Tramuntana;1,8;Superior;Ja;4;Ja;Strikt;2,6;19,1
+227;Aparthotel Tramuntana 227;120;2,8;Vollpension;Berge/Serra de Tramuntana;8,5;Standard;Nein;4;Ja;Strikt;2,2;12,2
+228;Hotel Sol Mar 228;262;4;Vollpension;Küstennähe;2,4;Standard;Nein;3;Ja;Teilweise;0,9;19,1
+229;Suites Deia 229;156;4;All Inclusive;Strandnähe;0,2;Deluxe;Ja;3;Ja;Strikt;4,2;17,5
+230;Hostal Esencia 230;198;4,9;Frühstück;Berge/Serra de Tramuntana;14,6;Suite;Ja;3;Ja;Flexibel;8,6;14,4
+231;Aparthotel Serra 231;100;3,8;Frühstück;Innenstadt Palma;6,5;Superior;Nein;3;Nein;Flexibel;6,2;18
+232;Aparthotel Playa Blanca 232;258;3,4;Halbpension;Berge/Serra de Tramuntana;7,4;Deluxe;Ja;3;Ja;Strikt;6,1;13,8
+233;Hotel Sol Mar 233;431;3,8;Vollpension;Strandnähe;15;Suite;Nein;4;Ja;Teilweise;6,6;15,4
+234;Aparthotel Alcudia 234;293;3,9;Keine;Berge/Serra de Tramuntana;13;Standard;Ja;3;Nein;Teilweise;0,1;8,4
+235;Resort Andratx 235;441;5;Vollpension;Küstennähe;11;Deluxe;Ja;5;Ja;Strikt;1,4;8,4
+236;Aparthotel Cala Nova 236;394;4,6;All Inclusive;Berge/Serra de Tramuntana;14,8;Deluxe;Nein;5;Nein;Strikt;2,2;11,7
+237;Resort Paguera 237;441;4,1;Keine;Küstennähe;2,1;Deluxe;Ja;4;Nein;Teilweise;8,8;12
+238;Resort Encantada 238;57;4,4;Halbpension;Berge/Serra de Tramuntana;1,1;Deluxe;Ja;3;Ja;Flexibel;8,6;6,4
+239;Finca Valldemossa 239;161;4,3;All Inclusive;Strandnähe;2;Superior;Nein;2;Ja;Flexibel;9,8;8,1
+240;Hostal Tramuntana 240;68;2,6;Frühstück;Innenstadt Palma;5;Suite;Ja;1;Ja;Flexibel;6;11,4
+241;Villa Jardin del Sol 241;267;3,4;Keine;Dorf;9,9;Standard;Ja;4;Ja;Teilweise;4;12,3
+242;Finca Vista Azul 242;314;4;All Inclusive;Dorf;8,9;Deluxe;Nein;5;Nein;Flexibel;4,8;8,9
+243;Villa Alcudia 243;127;3,6;Halbpension;Küstennähe;11,8;Superior;Nein;3;Ja;Flexibel;5,1;15,4
+244;Resort Oasis 244;328;2,8;Halbpension;Strandnähe;2,2;Deluxe;Ja;3;Nein;Teilweise;4,8;12,2
+245;Suites Encantada 245;212;4,1;Vollpension;Strandnähe;10,4;Superior;Ja;3;Nein;Strikt;9,4;10,4
+246;Hotel Palmera 246;221;4,6;Frühstück;Innenstadt Palma;6,3;Standard;Nein;4;Nein;Flexibel;8;18,1
+247;Villa Pollensa 247;437;2,8;Keine;Berge/Serra de Tramuntana;1;Standard;Ja;4;Nein;Teilweise;4,4;15,9
+248;Hostal Bahia Serena 248;436;3,2;Keine;Berge/Serra de Tramuntana;2;Suite;Ja;3;Ja;Flexibel;8,6;5,2
+249;Suites Arena Dorada 249;157;3,4;Frühstück;Berge/Serra de Tramuntana;5,1;Suite;Ja;2;Nein;Teilweise;3,4;14,2
+250;Villa Jardin del Sol 250;365;4,3;Frühstück;Strandnähe;1,9;Superior;Ja;5;Ja;Strikt;0,7;18,7
+251;Finca Soller 251;328;3,5;Halbpension;Innenstadt Palma;11,1;Superior;Nein;4;Ja;Flexibel;7,3;11
+252;Finca Pollensa 252;149;2,8;Keine;Strandnähe;5,7;Suite;Nein;3;Nein;Strikt;7,4;12,4
+253;Hotel Bella Vista 253;168;4,4;Halbpension;Dorf;12;Suite;Nein;2;Ja;Strikt;5,8;13,2
+254;Villa Bahia Serena 254;304;3,9;Vollpension;Berge/Serra de Tramuntana;12,2;Deluxe;Nein;3;Ja;Flexibel;4,4;7,6
+255;Villa Pollensa 255;88;4,3;Halbpension;Innenstadt Palma;9,7;Suite;Nein;3;Ja;Strikt;8;15,9
+256;Aparthotel Encantada 256;240;4;Keine;Innenstadt Palma;12,4;Standard;Nein;4;Nein;Strikt;9,3;8,3
+257;Aparthotel Oasis 257;394;4,4;All Inclusive;Küstennähe;10,2;Standard;Nein;5;Nein;Teilweise;6,8;15,4
+258;Resort Oasis 258;139;4,8;Frühstück;Strandnähe;11,8;Superior;Ja;4;Ja;Strikt;8,7;6,9
+259;Aparthotel Palmera 259;222;4,4;All Inclusive;Dorf;2,1;Superior;Ja;4;Ja;Flexibel;7;10,9
+260;Hostal Andratx 260;121;3,2;Frühstück;Küstennähe;2;Standard;Nein;4;Ja;Flexibel;7;6,9
+261;Hotel Encantada 261;264;4,3;All Inclusive;Dorf;12,7;Deluxe;Nein;3;Nein;Teilweise;4,2;16,9
+262;Hotel Pollensa 262;149;2,8;Vollpension;Küstennähe;0,8;Superior;Ja;4;Ja;Teilweise;7,2;17,2
+263;Suites Andratx 263;185;3,1;Vollpension;Innenstadt Palma;13,9;Superior;Ja;2;Nein;Teilweise;0,7;8,5
+264;Finca La Pergola 264;335;4,7;Vollpension;Berge/Serra de Tramuntana;9,5;Standard;Ja;5;Nein;Strikt;2,2;18,3
+265;Hostal Deia 265;90;3;Keine;Berge/Serra de Tramuntana;6,6;Deluxe;Ja;1;Nein;Strikt;1,8;8,3
+266;Villa Cala Nova 266;366;2,6;Vollpension;Dorf;7,9;Superior;Nein;4;Ja;Teilweise;8,1;8,2
+267;Finca Andratx 267;278;3,9;Vollpension;Dorf;7;Standard;Nein;4;Nein;Teilweise;9,4;14,5
+268;Suites Serra 268;56;2,5;All Inclusive;Küstennähe;7,8;Superior;Nein;2;Nein;Teilweise;9,8;13,1
+269;Hotel Porto Cristo 269;113;4,2;Halbpension;Dorf;12,1;Deluxe;Nein;4;Ja;Teilweise;5,8;12,1
+270;Resort Andratx 270;172;4,5;Frühstück;Dorf;0,6;Suite;Nein;4;Ja;Teilweise;8,4;17,7
+271;Suites Soller 271;346;3,5;Halbpension;Innenstadt Palma;6,8;Superior;Nein;4;Nein;Flexibel;3,1;12,2
+272;Villa Playa Blanca 272;385;2,5;Frühstück;Berge/Serra de Tramuntana;13,9;Superior;Nein;3;Ja;Strikt;8;19,2
+273;Aparthotel La Pergola 273;431;2,5;Keine;Küstennähe;10,3;Superior;Ja;4;Nein;Strikt;4,9;7,9
+274;Aparthotel Oasis 274;99;2,5;Vollpension;Berge/Serra de Tramuntana;4,5;Superior;Ja;1;Ja;Teilweise;5,8;12,2
+275;Villa Cala D'Or 275;269;4,7;Frühstück;Berge/Serra de Tramuntana;2,8;Deluxe;Ja;3;Nein;Teilweise;0,9;5,7
+276;Finca Jardin del Sol 276;427;3,1;Keine;Küstennähe;12,7;Deluxe;Nein;4;Ja;Teilweise;0,2;6,7
+277;Aparthotel Valldemossa 277;117;3;Frühstück;Berge/Serra de Tramuntana;9,1;Deluxe;Ja;4;Nein;Strikt;2,5;18,3
+278;Finca Encantada 278;130;4,9;Vollpension;Dorf;13;Deluxe;Ja;4;Ja;Strikt;3;18
+279;Villa Santanyi 279;426;4,3;Keine;Küstennähe;4,6;Deluxe;Ja;5;Ja;Strikt;4,1;18,3
+280;Hotel Porto Cristo 280;407;2,7;Frühstück;Küstennähe;10,7;Superior;Nein;3;Ja;Flexibel;0,7;11,5
+281;Aparthotel Palma Real 281;338;4,6;Keine;Strandnähe;1,5;Superior;Nein;4;Nein;Strikt;3,7;11,8
+282;Villa Porto Cristo 282;195;3,7;Keine;Küstennähe;7,3;Superior;Nein;2;Ja;Teilweise;3,8;14,6
+283;Hotel Sol Mar 283;256;4;Halbpension;Küstennähe;14,5;Suite;Nein;4;Ja;Strikt;9,7;16
+284;Hostal Porto Cristo 284;283;4,8;Keine;Dorf;2,7;Standard;Nein;3;Nein;Teilweise;9,6;5,6
+285;Hostal Vista Azul 285;201;2,7;Halbpension;Küstennähe;14,5;Suite;Ja;4;Nein;Flexibel;2,2;19,4
+286;Suites Pollensa 286;156;2,7;Keine;Innenstadt Palma;0,6;Standard;Ja;2;Ja;Teilweise;8,5;6,3
+287;Suites Bahia Serena 287;54;4;All Inclusive;Berge/Serra de Tramuntana;8;Standard;Ja;3;Ja;Flexibel;6,8;9,7
+288;Aparthotel Bella Vista 288;402;3;Vollpension;Innenstadt Palma;9,4;Suite;Nein;4;Ja;Flexibel;10;18,1
+289;Resort Esencia 289;331;2,7;Frühstück;Küstennähe;0,7;Suite;Nein;3;Nein;Strikt;1,3;10
+290;Aparthotel Palma Real 290;159;2,6;All Inclusive;Küstennähe;3,4;Standard;Nein;2;Ja;Flexibel;8,5;11,3
+291;Hostal Palma Real 291;49;4,5;Frühstück;Strandnähe;6,9;Deluxe;Ja;2;Nein;Teilweise;7,9;18,8
+292;Hotel Porto Cristo 292;396;4,8;Halbpension;Dorf;2,1;Deluxe;Ja;5;Ja;Flexibel;5,9;13,2
+293;Hostal Bahia Serena 293;379;4,6;Frühstück;Küstennähe;13,8;Suite;Ja;4;Ja;Teilweise;9,7;15,9
+294;Hotel Palma Real 294;411;4,1;All Inclusive;Dorf;3,4;Deluxe;Ja;4;Nein;Flexibel;5,6;15,3
+295;Finca Palmera 295;241;2,5;Keine;Innenstadt Palma;13,9;Superior;Ja;3;Ja;Flexibel;0;13,5
+296;Resort La Pergola 296;259;2,7;All Inclusive;Innenstadt Palma;5,8;Deluxe;Nein;3;Nein;Flexibel;8;12,9
+297;Finca Andratx 297;117;3,9;All Inclusive;Berge/Serra de Tramuntana;6,1;Superior;Ja;4;Ja;Flexibel;1,4;10,9
+298;Aparthotel Porto Cristo 298;220;4,3;Vollpension;Berge/Serra de Tramuntana;8;Superior;Ja;3;Nein;Flexibel;7,7;17,9
+299;Villa Oasis 299;99;3,5;Halbpension;Strandnähe;1,4;Standard;Ja;2;Ja;Strikt;4,5;16,7
+300;Aparthotel Mar y Tierra 300;343;4,8;Halbpension;Dorf;7,8;Superior;Nein;4;Nein;Teilweise;4,6;14,9
+301;Hostal Tramuntana 301;113;3,3;Vollpension;Dorf;4,4;Standard;Ja;4;Ja;Teilweise;9,2;19,2
+302;Aparthotel Cala D'Or 302;296;2,7;Halbpension;Strandnähe;14,5;Deluxe;Nein;3;Nein;Strikt;3,2;14,6
+303;Hotel Cala D'Or 303;263;;Halbpension;Dorf;0,9;Suite;Ja;4;Ja;Strikt;4;15,8
+304;Villa Alcudia 304;53;3,9;Vollpension;Berge/Serra de Tramuntana;10,6;Superior;Nein;1;Ja;Strikt;1,2;5,6
+305;Finca Tramuntana 305;242;2,9;Halbpension;Strandnähe;8;Deluxe;Ja;4;Nein;Teilweise;1,2;7,5
+306;Villa Palmera 306;154;4,9;Frühstück;Berge/Serra de Tramuntana;9,6;Superior;Ja;3;Nein;Flexibel;1,6;13,1
+307;Finca Mar Azul 307;374;4,1;All Inclusive;Berge/Serra de Tramuntana;4,4;Deluxe;Nein;4;Nein;Strikt;0,4;11,3
+308;Villa Andratx 308;312;4,1;Halbpension;Innenstadt Palma;9,1;Suite;Nein;4;Nein;Strikt;1,6;11
+309;Aparthotel Santanyi 309;199;4,3;Halbpension;Strandnähe;2,2;Deluxe;Ja;2;Nein;Strikt;9,9;19,5
+310;Resort Encantada 310;424;4,9;Halbpension;Strandnähe;12,4;Deluxe;Nein;4;Nein;Strikt;2,6;13,2
+311;Hostal Mar y Tierra 311;298;4,4;All Inclusive;Innenstadt Palma;10,8;Deluxe;Nein;4;Nein;Teilweise;6,3;10,8
+312;Suites Pollensa 312;287;2,8;Keine;Innenstadt Palma;8,9;Superior;Ja;4;Nein;Flexibel;2,5;8,5
+313;Finca Cala Nova 313;104;3,3;All Inclusive;Strandnähe;3,1;Superior;Nein;2;Nein;Flexibel;0,1;16
+314;Resort Paguera 314;348;2,8;All Inclusive;Dorf;7,7;Superior;Nein;3;Nein;Flexibel;0,9;13,6
+315;Hotel Mar Azul 315;212;4,9;All Inclusive;Strandnähe;3,3;Standard;Ja;4;Nein;Teilweise;0,6;17
+316;Aparthotel La Pergola 316;238;3,4;Vollpension;Strandnähe;9,5;Standard;Ja;3;Ja;Teilweise;2,6;12,9
+317;Aparthotel Oasis 317;196;3,6;All Inclusive;Innenstadt Palma;0,4;Superior;Ja;3;Nein;Strikt;2,6;17,6
+318;Finca Jardin del Sol 318;236;3,7;All Inclusive;Dorf;5,2;Suite;Ja;3;Ja;Flexibel;4,4;16,7
+319;Hotel Serra 319;58;4,4;Keine;Strandnähe;3,3;Superior;Nein;1;Nein;Strikt;6,8;8,8
+320;Suites Soller 320;395;4,5;Halbpension;Strandnähe;1,6;Suite;Ja;5;Ja;Strikt;6,2;12,3
+321;Resort Pollensa 321;167;2,9;Frühstück;Dorf;11;Standard;Ja;3;Nein;Strikt;4,4;5,6
+322;Villa Deia 322;173;4,4;Keine;Dorf;14,5;Superior;Nein;4;Nein;Flexibel;4;19
+323;Hostal Oasis 323;74;4,9;Keine;Strandnähe;5,5;Standard;Nein;1;Nein;Teilweise;5,1;11,2
+324;Suites Andratx 324;319;2,7;Keine;Berge/Serra de Tramuntana;14,6;Suite;Ja;3;Ja;Flexibel;0,3;12,8
+325;Aparthotel Serra 325;171;3,9;Vollpension;Dorf;8;Suite;Ja;3;Ja;Flexibel;3;15,1
+326;Suites Tramuntana 326;336;2,6;All Inclusive;Strandnähe;0,2;Deluxe;Nein;4;Ja;Teilweise;6,1;8,5
+327;Aparthotel Jardin del Sol 327;321;4,1;Keine;Dorf;6,7;Standard;Nein;4;Ja;Teilweise;5,2;13,2
+328;Hotel Santanyi 328;354;4,8;All Inclusive;Innenstadt Palma;11,5;Deluxe;Nein;4;Nein;Strikt;3,3;19
+329;Suites Mar y Tierra 329;227;4,2;Frühstück;Strandnähe;8,9;Superior;Ja;3;Ja;Flexibel;3,3;12,8
+330;Finca Tramuntana 330;348;3,5;All Inclusive;Küstennähe;4,4;Suite;Ja;3;Ja;Teilweise;3,5;9,7
+331;Resort Esencia 331;410;4;Frühstück;Dorf;9,9;Deluxe;Ja;4;Ja;Teilweise;4;19,9
+332;Aparthotel Valldemossa 332;197;2,8;Frühstück;Innenstadt Palma;10,1;Deluxe;Nein;2;Nein;Flexibel;4,2;18,8
+333;Hotel Bella Vista 333;305;3,3;Vollpension;Dorf;13,5;Superior;Ja;4;Ja;Teilweise;7,4;17,6
+334;Suites Cala Nova 334;76;4,8;Vollpension;Berge/Serra de Tramuntana;6,8;Superior;Ja;1;Nein;Flexibel;7,1;6,7
+335;Aparthotel Sol Mar 335;345;2,6;Halbpension;Innenstadt Palma;9,3;Suite;Nein;3;Ja;Strikt;8,6;13,3
+336;Suites Bahia Serena 336;91;3,4;Vollpension;Strandnähe;8,7;Suite;Nein;1;Nein;Flexibel;5,7;14,3
+337;Hotel La Pergola 337;183;4,3;Frühstück;Innenstadt Palma;2,5;Standard;Nein;3;Nein;Flexibel;9,4;6,9
+338;Aparthotel Vista Azul 338;236;4,1;Keine;Küstennähe;7,8;Deluxe;Ja;3;Nein;Flexibel;8,8;17,6
+339;Finca Valldemossa 339;414;3,9;Keine;Strandnähe;13,4;Superior;Ja;4;Ja;Flexibel;2,6;7
+340;Suites Valldemossa 340;309;3,5;Vollpension;Dorf;3,4;Standard;Nein;3;Nein;Flexibel;1,5;19
+341;Villa Bella Vista 341;415;4,7;Frühstück;Dorf;13,8;Standard;Ja;5;Ja;Strikt;9,4;16,1
+342;Villa Santanyi 342;365;3,4;Vollpension;Berge/Serra de Tramuntana;11,6;Deluxe;Nein;4;Nein;Teilweise;8,5;18,6
+343;Suites Vista Azul 343;40;4,2;All Inclusive;Küstennähe;10,7;Suite;Ja;3;Nein;Strikt;5,2;16,4
+344;Villa Costa Verde 344;106;3,6;Keine;Strandnähe;14,1;Superior;Ja;3;Nein;Teilweise;6,6;18,9
+345;Hotel Arena Dorada 345;164;3,6;Frühstück;Dorf;12,5;Suite;Nein;4;Ja;Strikt;8,2;9,8
+346;Aparthotel Arena Dorada 346;231;3,9;Keine;Strandnähe;9,7;Superior;Ja;3;Nein;Flexibel;4,1;15,2
+347;Hotel Esencia 347;211;4,3;Vollpension;Strandnähe;12,1;Superior;Nein;3;Nein;Strikt;2,4;15,9
+348;Villa Costa Verde 348;273;2,6;Halbpension;Berge/Serra de Tramuntana;9,2;Standard;Nein;3;Nein;Flexibel;0,9;12,1
+349;Hostal Costa Verde 349;337;2,9;Vollpension;Innenstadt Palma;12;Superior;Nein;3;Ja;Teilweise;0,4;11
+350;Villa Sol Mar 350;347;4,6;All Inclusive;Innenstadt Palma;2,3;Deluxe;Ja;4;Nein;Flexibel;3,9;18,8
+351;Aparthotel Playa Blanca 351;226;3,9;Vollpension;Berge/Serra de Tramuntana;2,4;Standard;Nein;4;Nein;Strikt;8,3;11,4
+352;Hostal Sol Mar 352;370;3,4;All Inclusive;Innenstadt Palma;4,4;Deluxe;Nein;3;Nein;Flexibel;2,9;19,8
+353;Suites Andratx 353;361;2,9;Keine;Berge/Serra de Tramuntana;7,4;Suite;Nein;4;Ja;Teilweise;2,4;17,7
+354;Hotel Encantada 354;381;3,2;All Inclusive;Dorf;10,4;Deluxe;Ja;4;Nein;Flexibel;0,1;11
+355;Hotel Pollensa 355;194;5;Keine;Berge/Serra de Tramuntana;1,1;Superior;Nein;4;Ja;Strikt;0,6;5,1
+356;Aparthotel Mar y Tierra 356;424;3,9;Keine;Dorf;5,5;Suite;Ja;3;Ja;Flexibel;5,4;13,3
+357;Finca Encantada 357;141;3,9;All Inclusive;Strandnähe;3;Superior;Ja;2;Ja;Strikt;3,6;18,6
+358;Hotel Tramuntana 358;444;4,5;Keine;Dorf;4,4;Suite;Nein;5;Ja;Teilweise;9,2;12,5
+359;Villa Arena Dorada 359;198;4,8;Frühstück;Dorf;5,8;Suite;Ja;4;Nein;Strikt;9,5;7,2
+360;Hotel Serra 360;126;3,3;Vollpension;Küstennähe;0,2;Superior;Ja;4;Nein;Teilweise;7,2;16,4
+361;Hostal Playa Blanca 361;430;4,8;Keine;Strandnähe;0,8;Superior;Nein;4;Nein;Flexibel;2,1;14,6
+362;Finca Vista Azul 362;360;4,1;Vollpension;Dorf;6;Suite;Nein;5;Ja;Strikt;9,5;17,4
+363;Aparthotel Vista Azul 363;193;4,7;Frühstück;Küstennähe;3,9;Standard;Nein;2;Nein;Teilweise;9;14,1
+364;Resort Esencia 364;131;4,5;Frühstück;Berge/Serra de Tramuntana;9,7;Suite;Ja;2;Ja;Flexibel;0,4;17,2
+365;Aparthotel Paguera 365;269;2,6;All Inclusive;Dorf;8,3;Superior;Nein;3;Nein;Strikt;4,2;6,2
+366;Hostal Costa Verde 366;354;2,9;Halbpension;Innenstadt Palma;12,1;Superior;Nein;4;Nein;Strikt;7;12,2
+367;Suites Sol Mar 367;262;4,2;Vollpension;Dorf;14,3;Standard;Ja;3;Ja;Flexibel;8,9;6,9
+368;Finca Serra 368;144;3,3;Keine;Strandnähe;14;Suite;Ja;4;Ja;Flexibel;4;19
+369;Suites Santanyi 369;231;3,8;All Inclusive;Berge/Serra de Tramuntana;4,3;Standard;Nein;3;Nein;Strikt;3,9;15,7
+370;Villa Santanyi 370;97;2,8;Frühstück;Küstennähe;3,5;Suite;Nein;1;Nein;Teilweise;8,1;8
+371;Suites Andratx 371;425;4,3;Keine;Innenstadt Palma;0,8;Standard;Ja;4;Ja;Flexibel;6,7;6
+372;Finca Cala D'Or 372;243;3,1;Keine;Strandnähe;10;Suite;Ja;4;Nein;Teilweise;2,8;9
+373;Villa Encantada 373;405;3,1;Keine;Strandnähe;8,7;Standard;Ja;4;Nein;Strikt;9,7;9,3
+374;Hotel Sol Mar 374;269;4,3;All Inclusive;Dorf;0,2;Suite;Ja;4;Nein;Teilweise;7;15,1
+375;Resort Mar Azul 375;400;4;All Inclusive;Dorf;14,2;Superior;Ja;5;Ja;Strikt;7,4;9,8
+376;Finca Bella Vista 376;242;3,7;All Inclusive;Küstennähe;10,9;Superior;Nein;3;Ja;Strikt;10;8,7
+377;Hostal Alcudia 377;411;4;Vollpension;Strandnähe;14;Suite;Ja;5;Ja;Teilweise;5,8;19,3
+378;Villa Palma Real 378;281;4,3;All Inclusive;Küstennähe;1,2;Deluxe;Nein;4;Nein;Strikt;8,2;17,7
+379;Resort Palma Real 379;416;2,6;Keine;Berge/Serra de Tramuntana;12,2;Deluxe;Ja;4;Ja;Strikt;9,1;10,3
+380;Villa Valldemossa 380;224;3;Frühstück;Küstennähe;14,9;Deluxe;Nein;3;Ja;Strikt;9,8;12
+381;Hotel Deia 381;51;2,9;Keine;Berge/Serra de Tramuntana;2,3;Superior;Nein;2;Nein;Flexibel;6,4;8,9
+382;Resort Arena Dorada 382;386;3,7;Halbpension;Strandnähe;11,9;Suite;Nein;4;Nein;Flexibel;4,1;11,5
+383;Finca Bahia Serena 383;238;4,3;Vollpension;Berge/Serra de Tramuntana;8,3;Standard;Nein;3;Nein;Flexibel;6,1;18,2
+384;Resort Vista Azul 384;398;2,9;All Inclusive;Dorf;4,8;Suite;Ja;3;Ja;Strikt;7;7,1
+385;Hotel Costa Verde 385;210;4,6;Vollpension;Küstennähe;11,8;Standard;Nein;4;Ja;Strikt;8,8;9,3
+386;Suites Playa Blanca 386;98;4,2;Frühstück;Innenstadt Palma;4;Deluxe;Ja;2;Ja;Strikt;8,3;9,3
+387;Hostal Porto Cristo 387;449;2,5;All Inclusive;Innenstadt Palma;14,7;Standard;Nein;3;Nein;Flexibel;3,3;18,2
+388;Finca Mar Azul 388;449;4,5;Keine;Dorf;2,3;Suite;Nein;4;Ja;Flexibel;0,5;8,2
+389;Villa Soller 389;54;2,7;Frühstück;Küstennähe;1,6;Standard;Ja;2;Nein;Flexibel;1,8;15,8
+390;Aparthotel Jardin del Sol 390;167;4,1;Halbpension;Berge/Serra de Tramuntana;8,4;Superior;Nein;4;Nein;Teilweise;3,7;14,8
+391;Hotel Soller 391;161;4;Frühstück;Strandnähe;11,9;Deluxe;Nein;3;Nein;Flexibel;3,2;8,9
+392;Hotel Andratx 392;268;4;Halbpension;Dorf;5,3;Standard;Ja;4;Nein;Flexibel;0,6;6,4
+393;Finca Esencia 393;333;3,2;Frühstück;Strandnähe;13,2;Standard;Nein;3;Nein;Flexibel;9,5;8,8
+394;Aparthotel Bella Vista 394;154;3,1;Keine;Innenstadt Palma;6,6;Deluxe;Nein;2;Ja;Flexibel;9,6;18,2
+395;Hotel Mediterraneo 395;73;3,6;Frühstück;Berge/Serra de Tramuntana;3,8;Suite;Nein;1;Nein;Flexibel;2,4;12,1
+396;Finca Oasis 396;50;4,4;Halbpension;Innenstadt Palma;11,6;Standard;Nein;3;Nein;Teilweise;2,6;7,4
+397;Villa Bahia Serena 397;423;3,4;Halbpension;Innenstadt Palma;12,4;Standard;Ja;4;Nein;Strikt;4,7;5,3
+398;Aparthotel Sol Mar 398;209;2,6;Frühstück;Dorf;4,2;Deluxe;Ja;3;Ja;Flexibel;0,7;8,9
+399;Aparthotel Alcudia 399;198;3,3;Vollpension;Dorf;14,8;Suite;Nein;3;Ja;Flexibel;3;17,6
+400;Finca Valldemossa 400;244;4,9;Frühstück;Küstennähe;10,6;Superior;Nein;4;Nein;Teilweise;0,5;12,6
+401;Hostal Cala Nova 401;144;3,7;Halbpension;Strandnähe;8,4;Superior;Nein;2;Ja;Teilweise;6,3;18
+402;Hostal Paguera 402;94;4,6;Halbpension;Berge/Serra de Tramuntana;6,2;Standard;Nein;1;Ja;Flexibel;0,5;8,2
+403;Finca Vista Azul 403;274;2,8;Keine;Küstennähe;12,5;Superior;Nein;3;Ja;Teilweise;6,4;12,9
+404;Suites Andratx 404;312;3,3;Frühstück;Strandnähe;2,4;Deluxe;Ja;4;Nein;Flexibel;9,8;14,7
+405;Suites Mediterraneo 405;297;4,8;All Inclusive;Berge/Serra de Tramuntana;11,1;Standard;Ja;3;Ja;Flexibel;1,1;7,9
+406;Hotel Esencia 406;257;4,2;All Inclusive;Dorf;11;Suite;Ja;4;Nein;Flexibel;0,9;17,9
+407;Suites Sol Mar 407;271;3,2;Halbpension;Innenstadt Palma;14,2;Deluxe;Nein;3;Ja;Teilweise;0,4;10,3
+408;Aparthotel Santanyi 408;448;4,7;All Inclusive;Küstennähe;0,1;Standard;Ja;4;Nein;Flexibel;3;14,4
+409;Resort Pollensa 409;379;4,6;Halbpension;Innenstadt Palma;8,8;Superior;Ja;5;Ja;Flexibel;0,5;10,1
+410;Hostal Vista Azul 410;357;2,9;Keine;Berge/Serra de Tramuntana;1,3;Suite;Ja;3;Ja;Strikt;4,7;6,5
+411;Suites Mediterraneo 411;108;3,8;Halbpension;Strandnähe;13,9;Superior;Ja;2;Nein;Teilweise;8,5;5,4
+412;Suites Soller 412;212;4,8;Keine;Strandnähe;2,8;Suite;Ja;4;Ja;Flexibel;6,2;12,1
+413;Villa Oasis 413;279;4,5;Vollpension;Berge/Serra de Tramuntana;10,5;Deluxe;Nein;4;Ja;Strikt;6,5;6,6
+414;Resort Arena Dorada 414;219;4,1;Vollpension;Strandnähe;11,5;Suite;Nein;3;Nein;Teilweise;4,9;11
+415;Hotel Palma Real 415;311;3,5;Vollpension;Innenstadt Palma;10,3;Suite;Ja;4;Ja;Teilweise;1;15,2
+416;Finca Oasis 416;79;3,1;Frühstück;Innenstadt Palma;8;Deluxe;Ja;2;Ja;Strikt;8,4;12,5
+417;Finca Paguera 417;274;2,9;Halbpension;Innenstadt Palma;8,2;Suite;Ja;3;Nein;Strikt;4,5;11,8
+418;Villa Arena Dorada 418;124;2,6;Halbpension;Innenstadt Palma;7,3;Deluxe;Ja;3;Ja;Strikt;8;19,5
+419;Aparthotel Alcudia 419;444;4,9;Halbpension;Strandnähe;5,2;Deluxe;Nein;5;Ja;Strikt;3,1;16,6
+420;Villa Porto Cristo 420;430;3,7;Keine;Berge/Serra de Tramuntana;5,3;Deluxe;Ja;4;Nein;Strikt;3;7,2
+421;Hostal La Pergola 421;248;4,5;All Inclusive;Küstennähe;5,6;Suite;Ja;3;Nein;Strikt;2,6;11,3
+422;Hostal Bahia Serena 422;390;2,6;All Inclusive;Küstennähe;10,5;Deluxe;Nein;4;Nein;Flexibel;2,8;14,3
+423;Hostal Arena Dorada 423;347;3,3;Keine;Berge/Serra de Tramuntana;3,4;Standard;Nein;4;Nein;Teilweise;9,8;11,1
+424;Finca Andratx 424;169;2,8;Halbpension;Innenstadt Palma;4,3;Deluxe;Ja;3;Ja;Strikt;0,4;5,6
+425;Hotel Bella Vista 425;385;2,5;Keine;Strandnähe;10,5;Superior;Ja;4;Ja;Strikt;7,8;7,9
+426;Hotel Valldemossa 426;63;2,8;All Inclusive;Berge/Serra de Tramuntana;6;Standard;Nein;3;Nein;Strikt;6,7;9,5
+427;Resort Costa Verde 427;372;3,5;Keine;Dorf;11,4;Deluxe;Nein;3;Nein;Strikt;1,9;14,3
+428;Finca Alcudia 428;270;4,3;Frühstück;Dorf;11;Standard;Nein;4;Nein;Teilweise;6,1;9,7
+429;Finca Vista Azul 429;202;4,2;Vollpension;Strandnähe;11;Superior;Ja;3;Nein;Teilweise;6,5;18,1
+430;Suites Arena Dorada 430;257;2,8;Halbpension;Strandnähe;1,4;Superior;Ja;4;Ja;Strikt;2,9;8,1
+431;Resort Valldemossa 431;96;2,9;Vollpension;Strandnähe;3,4;Standard;Ja;1;Nein;Teilweise;7,5;12,8
+432;Suites Jardin del Sol 432;335;3,3;Keine;Dorf;2,7;Standard;Nein;4;Ja;Strikt;5,1;17
+433;Hotel Soller 433;317;4,6;Vollpension;Innenstadt Palma;1,4;Suite;Nein;5;Nein;Flexibel;7,6;8
+434;Resort Cala D'Or 434;57;3,1;All Inclusive;Berge/Serra de Tramuntana;9,1;Deluxe;Ja;2;Nein;Teilweise;5,8;9,6
+435;Finca Paguera 435;102;3,1;Keine;Dorf;4,4;Suite;Nein;4;Nein;Teilweise;6,8;19,3
+436;Suites Mar y Tierra 436;403;3,1;Frühstück;Berge/Serra de Tramuntana;8,2;Suite;Nein;4;Ja;Flexibel;1,3;15,5
+437;Hostal Arena Dorada 437;347;3,6;All Inclusive;Strandnähe;12,7;Suite;Nein;4;Nein;Teilweise;9,3;10,4
+438;Villa Bella Vista 438;283;4,7;Vollpension;Dorf;10,4;Superior;Ja;4;Ja;Teilweise;5,3;18,2
+439;Hotel Cala Nova 439;259;2,7;Keine;Berge/Serra de Tramuntana;13;Deluxe;Ja;3;Ja;Teilweise;2,1;8,2
+440;Finca Costa Verde 440;195;2,8;Keine;Dorf;14,1;Standard;Ja;4;Ja;Teilweise;0;9,9
+441;Aparthotel Andratx 441;201;2,6;Frühstück;Dorf;5,6;Standard;Ja;4;Ja;Strikt;2;8,3
+442;Hostal Mar Azul 442;216;4,3;All Inclusive;Dorf;4,9;Suite;Ja;3;Ja;Teilweise;1,6;8,9
+443;Finca Pollensa 443;402;3,2;Keine;Dorf;3,5;Suite;Ja;3;Ja;Teilweise;3,9;15,5
+444;Resort Vista Azul 444;250;3,2;Vollpension;Innenstadt Palma;2,5;Deluxe;Nein;3;Nein;Flexibel;8,2;19,6
+445;Suites Encantada 445;185;2,9;Frühstück;Küstennähe;8,5;Superior;Nein;3;Ja;Strikt;9,1;14,7
+446;Finca Pollensa 446;349;2,7;All Inclusive;Strandnähe;7,9;Deluxe;Ja;4;Nein;Flexibel;4,6;6,8
+447;Finca Pollensa 447;111;3;Keine;Dorf;14,7;Deluxe;Ja;3;Nein;Flexibel;0,7;8,3
+448;Resort Deia 448;446;2,9;Halbpension;Innenstadt Palma;8,1;Superior;Nein;3;Ja;Strikt;1,7;12,5
+449;Hostal Serra 449;153;3,3;All Inclusive;Berge/Serra de Tramuntana;10,8;Suite;Ja;2;Ja;Strikt;8;10,9
+450;Resort Tramuntana 450;143;3,4;Halbpension;Küstennähe;4,6;Superior;Nein;4;Nein;Teilweise;2,4;8,5
+451;Hostal Cala Nova 451;251;4,5;All Inclusive;Dorf;4,2;Suite;Ja;4;Nein;Teilweise;4,7;10,6
+452;Suites Jardin del Sol 452;245;4,3;Frühstück;Dorf;14;Deluxe;Nein;4;Nein;Flexibel;1,7;18
+453;Suites Porto Cristo 453;47;3;Vollpension;Küstennähe;6,4;Deluxe;Ja;2;Ja;Flexibel;2,3;14,6
+454;Hostal Andratx 454;103;2,5;All Inclusive;Strandnähe;7,5;Superior;Nein;4;Ja;Teilweise;4,9;6,4
+455;Resort Soller 455;287;3,1;Halbpension;Innenstadt Palma;12;Superior;Ja;3;Nein;Flexibel;0,6;10,5
+456;Finca Palma Real 456;299;2,7;All Inclusive;Innenstadt Palma;2,8;Deluxe;Ja;3;Nein;Flexibel;9,9;19,2
+457;Villa Bahia Serena 457;195;4,7;All Inclusive;Berge/Serra de Tramuntana;3,4;Deluxe;Ja;2;Ja;Teilweise;6,5;16,9
+458;Hotel Oasis 458;367;4,6;Frühstück;Küstennähe;8,7;Superior;Ja;4;Ja;Teilweise;5,5;12,9
+459;Hotel Deia 459;98;2,6;All Inclusive;Innenstadt Palma;9,2;Suite;Ja;3;Ja;Flexibel;9,7;11,3
+460;Aparthotel Mediterraneo 460;342;3,7;Vollpension;Dorf;1,5;Superior;Nein;4;Nein;Strikt;3,3;15
+461;Aparthotel Mar y Tierra 461;152;2,8;Keine;Strandnähe;8,8;Suite;Ja;4;Nein;Teilweise;10;8,4
+462;Finca Playa Blanca 462;130;3;Vollpension;Strandnähe;4;Superior;Nein;2;Ja;Strikt;0,3;13
+463;Aparthotel Paguera 463;85;3,2;Vollpension;Innenstadt Palma;9,2;Deluxe;Ja;2;Nein;Flexibel;9,6;5,2
+464;Resort Porto Cristo 464;260;4,8;Halbpension;Innenstadt Palma;11,4;Suite;Ja;3;Nein;Flexibel;9,4;6,6
+465;Hostal Bella Vista 465;321;4;Frühstück;Strandnähe;9;Superior;Ja;4;Nein;Flexibel;4,6;18,3
+466;Villa Valldemossa 466;382;4,5;Vollpension;Berge/Serra de Tramuntana;10;Suite;Ja;4;Ja;Teilweise;1,8;11,9
+467;Suites Arena Dorada 467;148;4,6;All Inclusive;Strandnähe;5,1;Deluxe;Ja;4;Ja;Flexibel;6,5;17,4
+468;Hotel Soller 468;386;2,6;All Inclusive;Berge/Serra de Tramuntana;2,4;Superior;Ja;4;Ja;Flexibel;9;5,9
+469;Finca Vista Azul 469;233;3,2;All Inclusive;Strandnähe;14,4;Deluxe;Nein;4;Nein;Flexibel;9,8;12,8
+470;Villa Cala Nova 470;126;4,6;Frühstück;Dorf;4,9;Deluxe;Ja;4;Nein;Flexibel;2,4;5,9
+471;Resort Tramuntana 471;120;2,8;Vollpension;Küstennähe;3,9;Standard;Nein;3;Nein;Flexibel;7,1;12,4
+472;Resort Bella Vista 472;160;2,6;Vollpension;Dorf;8,7;Superior;Ja;3;Nein;Flexibel;0,1;13,4
+473;Suites Paguera 473;227;4,7;All Inclusive;Innenstadt Palma;14,9;Deluxe;Nein;3;Nein;Flexibel;0,5;17,5
+474;Hotel Vista Azul 474;440;4,2;Halbpension;Dorf;10,5;Standard;Nein;4;Ja;Teilweise;5,1;10
+475;Resort La Pergola 475;118;3,9;Keine;Innenstadt Palma;6,5;Deluxe;Ja;4;Nein;Teilweise;3,4;10,9
+476;Finca Bella Vista 476;96;2,9;Halbpension;Strandnähe;14,2;Suite;Nein;1;Nein;Teilweise;1,3;15,9
+477;Aparthotel La Pergola 477;409;3,2;All Inclusive;Dorf;1,4;Deluxe;Nein;3;Ja;Teilweise;5,2;13,4
+478;Hotel Porto Cristo 478;292;2,5;Halbpension;Dorf;4,6;Standard;Nein;4;Ja;Teilweise;6,6;13,4
+479;Suites Playa Blanca 479;402;4,2;Halbpension;Dorf;11,5;Superior;Nein;4;Nein;Strikt;5;10
+480;Aparthotel Mar y Tierra 480;179;;Frühstück;Berge/Serra de Tramuntana;14,7;Suite;Ja;4;Ja;Teilweise;5;14,7
+481;Finca Oasis 481;380;3,6;Halbpension;Innenstadt Palma;1,1;Suite;Ja;4;Nein;Flexibel;0,4;17,7
+482;Suites Santanyi 482;222;4,8;Vollpension;Dorf;14,8;Deluxe;Ja;4;Ja;Teilweise;9,7;14,4
+483;Suites Valldemossa 483;73;4,3;Keine;Dorf;13,4;Suite;Ja;1;Nein;Teilweise;9,4;5,6
+484;Suites Deia 484;68;4,4;Halbpension;Küstennähe;10,6;Deluxe;Nein;2;Ja;Flexibel;5,3;19,4
+485;Aparthotel Vista Azul 485;97;4,4;Vollpension;Strandnähe;5;Superior;Nein;1;Nein;Strikt;1,2;8,4
+486;Suites Costa Verde 486;149;3,5;All Inclusive;Dorf;2,2;Standard;Nein;2;Ja;Teilweise;2,3;19,1
+487;Suites Tramuntana 487;116;4,2;Halbpension;Küstennähe;11,2;Standard;Nein;4;Nein;Teilweise;9,2;9,1
+488;Finca Valldemossa 488;391;3,6;Frühstück;Dorf;11,7;Suite;Ja;4;Nein;Strikt;2,6;8,7
+489;Villa Alcudia 489;115;5;Frühstück;Innenstadt Palma;11,4;Superior;Nein;3;Ja;Strikt;5,8;15,6
+490;Finca Palma Real 490;321;4,8;Keine;Küstennähe;6,4;Standard;Ja;5;Nein;Flexibel;9,6;11,6
+491;Resort Vista Azul 491;64;3;Halbpension;Innenstadt Palma;11;Suite;Ja;1;Ja;Strikt;6,4;12,1
+492;Hostal Esencia 492;385;4,4;Halbpension;Innenstadt Palma;3,9;Suite;Ja;5;Ja;Teilweise;3,1;9,3
+493;Villa Soller 493;334;3,3;All Inclusive;Berge/Serra de Tramuntana;9,5;Suite;Ja;4;Nein;Teilweise;0;11,4
+494;Resort Soller 494;342;4,2;Vollpension;Küstennähe;11,4;Suite;Nein;4;Nein;Flexibel;8,3;17,4
+495;Hotel Playa Blanca 495;359;2,5;All Inclusive;Strandnähe;0,4;Standard;Ja;3;Ja;Flexibel;0,9;16,3
+496;Resort Sol Mar 496;335;;Halbpension;Strandnähe;8;Suite;Ja;3;Ja;Teilweise;0,6;10,3
+497;Hostal Palma Real 497;285;4;Vollpension;Berge/Serra de Tramuntana;11,2;Standard;Nein;4;Ja;Teilweise;2,4;5,1
+498;Finca Costa Verde 498;400;3,2;Vollpension;Dorf;1,1;Standard;Nein;3;Nein;Flexibel;2,6;14,1
+499;Resort Cala D'Or 499;337;4,4;Keine;Berge/Serra de Tramuntana;1,5;Standard;Nein;5;Nein;Teilweise;6,7;11,4
+500;Hostal Encantada 500;172;4,4;Vollpension;Strandnähe;6,6;Suite;Ja;2;Nein;Flexibel;2,1;10,9
