@@ -1,4 +1,4 @@
-## Check24 – Hotel Ranking Case Study
+## Hotel Ranking Case Study
 
 Small Python project that ranks hotels from an Excel dataset and exports a formatted Excel result file. It asks for user preferences via a simple `tkinter` UI and then applies filters + weighted scoring.
 
